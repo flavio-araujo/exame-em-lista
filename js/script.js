@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Quando acessa uma notícia do site Exame, opta por exibi-la como lista.
 // @author       Jota Teles
-// @match        http://exame.abril.com.br/tecnologia/noticias/*
+// @match        http://exame.abril.com.br/*/noticias/*
 // @grant        none
 // ==/UserScript==
 
